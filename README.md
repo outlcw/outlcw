@@ -3,9 +3,5 @@
 
 　
    　
-    <center><img width="222" height="220" alt="Image" src="https://github.com/user-attachments/assets/5768c41a-0fdb-49f8-9c03-976f79d784af" />
-
- 　　　┈┈　he　him ﹒ྀི
-
-
-　　　　　[about me](<https://prey.lol/outlaw>)
+    <img width="735" height="668" alt="Image" src="https://github.com/user-attachments/assets/349d4fb2-9eb4-42fb-9432-1862017d00d2" />
+    
