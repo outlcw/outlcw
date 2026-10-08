@@ -5,7 +5,7 @@
    　
     <center><img width="222" height="220" alt="Image" src="https://github.com/user-attachments/assets/5768c41a-0fdb-49f8-9c03-976f79d784af" />
 
- 　　　┈┈　he　they ﹒ྀི
+ 　　　┈┈　he　him ﹒ྀི
 
 
-　　　　　[about me](<https://prey.lol/syringie>)
+　　　　　[about me](<https://prey.lol/outlaw>)
